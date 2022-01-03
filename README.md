@@ -22,6 +22,9 @@
 |video_stream_opencv|카메라로만 실행이 가능한 darknet_ros를 video로 실행시키기 위한 패키지|
 |command_pkg|darknet_ros를 통해 yolov3에서 인식된 결과 값을 받아 인식된 값을 출력해주는 패키지|  
 
+## 🛠️ROS Node Graph
+<p align="center"><img src="https://user-images.githubusercontent.com/77342519/147966548-0dbd8f14-baae-4aba-9715-f71223b6e530.png" width="800px"></p>  
+
 ## 🛠️System Architecture  
 <p align="center"><img src="https://user-images.githubusercontent.com/77342519/147436501-8dc7c385-a0dc-4616-891f-2b1f94d4f976.png" width="800px"></p>  
 
